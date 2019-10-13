@@ -1,2 +1,2 @@
 # multidevtools
-Multi purpose developement tools
+Multi purpose development tools
